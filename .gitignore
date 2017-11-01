@@ -1,0 +1,9 @@
+
+.gitignore
+.idea/
+Include/
+Lib/
+MySQL_python-1.2.5-cp27-none-win_amd64.whl
+Scripts/
+pip-selfcheck.json
+tcl/
